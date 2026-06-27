@@ -5,7 +5,7 @@ import { SupportMe } from "@/components/support-me"
 export default function Home() {
   return (
     <>
-      <main className="flex-1 w-full max-w-5xl mx-auto px-4 py-8 sm:py-12 space-y-8">
+      <div className="w-full max-w-5xl mx-auto px-4 py-8 sm:py-12 space-y-8">
         <div className="text-center space-y-3">
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight bg-gradient-to-r from-blue-700 via-purple-600 to-blue-500 bg-clip-text text-transparent">
             SIP Calculator
@@ -20,9 +20,9 @@ export default function Home() {
         <SipCalculator />
 
         <FAQ />
-      </main>
+      </div>
 
-      <footer className="w-full border-t py-6 mt-8">
+      <footer className="w-full border-t py-6">
         <div className="max-w-5xl mx-auto px-4 text-center text-xs text-muted-foreground">
           <p>
             This SIP calculator provides estimated returns for illustrative

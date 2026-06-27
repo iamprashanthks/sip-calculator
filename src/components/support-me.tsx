@@ -5,7 +5,7 @@ export function SupportMe() {
   return (
     <div className="fixed bottom-4 right-4 z-50">
       <a
-        href="https://github.com/sponsors/anomalyco"
+        href="https://buymeacoffee.com/prashanth_ks"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block"

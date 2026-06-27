@@ -9,7 +9,7 @@ export function Navbar() {
           SIP Calculator
         </span>
         <a
-          href="https://github.com/sponsors/anomalyco"
+          href="https://buymeacoffee.com/prashanth_ks"
           target="_blank"
           rel="noopener noreferrer"
         >
